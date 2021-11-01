@@ -1,6 +1,7 @@
 {
-  "name": "example1",
-  "version": "0.0.0",
+  "name": "quick-vitejs-react-typescript-jest",
+  "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
